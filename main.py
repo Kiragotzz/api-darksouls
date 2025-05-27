@@ -19,7 +19,7 @@ darksouls2 = {
       "description": "Hub central do jogo, conecta múltiplas regiões.",
       "connections": ["things_betwixt", "fofg", "htoh", "huntsmans_copse", "shaded_woods", "the_pit"],
       "required_items": {
-        "fofg": null,
+        "fofg": None,
         "htoh": "Derrotar Dragonrider ou pagar 2000 almas para Licia",
         "huntsmans_copse": "Chave da Copse (vendida por Licia por 2000 almas)",
         "shaded_woods": "Emblema do Rei (King's Ring, adquirido mais tarde)",
@@ -50,7 +50,7 @@ darksouls2 = {
       "description": "Torre inundada com guerreiros de pedra e o Dragonrider.",
       "connections": ["no_mans_wharf", "majula"],
       "required_items": {
-        "no_mans_wharf": null
+        "no_mans_wharf": None
       }
     },
     {
