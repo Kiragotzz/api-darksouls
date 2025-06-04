@@ -435,7 +435,7 @@ darksouls2 = {
 }
 
 options = [
-  { name: "Dark Souls 2", id: 0 }
+  { "name": "Dark Souls 2", "id": 0 }
 ]
 
 def checkDarkSouls2Areas():
